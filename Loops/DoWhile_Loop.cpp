@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+//do-while loop → runs the code first, then checks the condition after.
 int main(){
     string username, password;
     string correct_username = "Darryll";

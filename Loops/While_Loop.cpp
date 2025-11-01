@@ -1,8 +1,9 @@
 //Used when you want the loop to run at least once.
 
+
 #include<iostream>
 using namespace std;
-
+//while loop → checks the condition before running the code.
 int main(){
     string username, password;
     string correct_username = "Darryll";
