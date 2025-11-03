@@ -22,7 +22,7 @@ int main(){
         cin >> password;
         cout << "You entered password:" << password << endl;
         if(username == correct_username && password == correct_password){
-            cout << "Login Succesful!" << endl;
+            cout << "Login Successful!" << endl;
             break;
         }else{
             attempts = attempts + 1;
